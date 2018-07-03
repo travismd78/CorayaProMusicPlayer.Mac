@@ -1,0 +1,1 @@
+# CorayaProMusicPlayer.Mac
